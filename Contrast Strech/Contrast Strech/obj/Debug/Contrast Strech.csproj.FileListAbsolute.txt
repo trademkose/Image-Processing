@@ -1,0 +1,18 @@
+C:\Users\AdemKose\Desktop\Contrast Strech\Contrast Strech\bin\Debug\Contrast Strech.exe.config
+C:\Users\AdemKose\Desktop\Contrast Strech\Contrast Strech\bin\Debug\Contrast Strech.exe
+C:\Users\AdemKose\Desktop\Contrast Strech\Contrast Strech\bin\Debug\Contrast Strech.pdb
+C:\Users\AdemKose\Desktop\Contrast Strech\Contrast Strech\obj\Debug\Contrast Strech.csprojResolveAssemblyReference.cache
+C:\Users\AdemKose\Desktop\Contrast Strech\Contrast Strech\obj\Debug\Contrast_Strech.Form1.resources
+C:\Users\AdemKose\Desktop\Contrast Strech\Contrast Strech\obj\Debug\Contrast_Strech.Properties.Resources.resources
+C:\Users\AdemKose\Desktop\Contrast Strech\Contrast Strech\obj\Debug\Contrast Strech.csproj.GenerateResource.Cache
+C:\Users\AdemKose\Desktop\Contrast Strech\Contrast Strech\obj\Debug\Contrast Strech.exe
+C:\Users\AdemKose\Desktop\Contrast Strech\Contrast Strech\obj\Debug\Contrast Strech.pdb
+C:\Users\AdemKose\Desktop\Görüntü İşleme\Contrast Strech\Contrast Strech\bin\Debug\Contrast Strech.exe.config
+C:\Users\AdemKose\Desktop\Görüntü İşleme\Contrast Strech\Contrast Strech\obj\Debug\Contrast Strech.exe
+C:\Users\AdemKose\Desktop\Görüntü İşleme\Contrast Strech\Contrast Strech\obj\Debug\Contrast Strech.pdb
+C:\Users\AdemKose\Desktop\Görüntü İşleme\Contrast Strech\Contrast Strech\bin\Debug\Contrast Strech.exe
+C:\Users\AdemKose\Desktop\Görüntü İşleme\Contrast Strech\Contrast Strech\bin\Debug\Contrast Strech.pdb
+C:\Users\AdemKose\Desktop\Görüntü İşleme\Contrast Strech\Contrast Strech\obj\Debug\Contrast Strech.csprojResolveAssemblyReference.cache
+C:\Users\AdemKose\Desktop\Görüntü İşleme\Contrast Strech\Contrast Strech\obj\Debug\Contrast_Strech.Form1.resources
+C:\Users\AdemKose\Desktop\Görüntü İşleme\Contrast Strech\Contrast Strech\obj\Debug\Contrast_Strech.Properties.Resources.resources
+C:\Users\AdemKose\Desktop\Görüntü İşleme\Contrast Strech\Contrast Strech\obj\Debug\Contrast Strech.csproj.GenerateResource.Cache
