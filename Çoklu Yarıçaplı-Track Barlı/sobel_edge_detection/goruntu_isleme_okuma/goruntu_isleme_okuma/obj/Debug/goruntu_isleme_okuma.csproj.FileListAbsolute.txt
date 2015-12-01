@@ -1,0 +1,27 @@
+c:\users\ademkose\documents\visual studio 2013\Projects\goruntu_isleme_okuma\goruntu_isleme_okuma\bin\Debug\goruntu_isleme_okuma.exe.config
+c:\users\ademkose\documents\visual studio 2013\Projects\goruntu_isleme_okuma\goruntu_isleme_okuma\bin\Debug\goruntu_isleme_okuma.exe
+c:\users\ademkose\documents\visual studio 2013\Projects\goruntu_isleme_okuma\goruntu_isleme_okuma\bin\Debug\goruntu_isleme_okuma.pdb
+c:\users\ademkose\documents\visual studio 2013\Projects\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.csprojResolveAssemblyReference.cache
+c:\users\ademkose\documents\visual studio 2013\Projects\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.Form1.resources
+c:\users\ademkose\documents\visual studio 2013\Projects\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.Properties.Resources.resources
+c:\users\ademkose\documents\visual studio 2013\Projects\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.csproj.GenerateResource.Cache
+c:\users\ademkose\documents\visual studio 2013\Projects\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.exe
+c:\users\ademkose\documents\visual studio 2013\Projects\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.pdb
+C:\Users\AdemKose\Desktop\Görüntü İşleme\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\bin\Debug\goruntu_isleme_okuma.exe.config
+C:\Users\AdemKose\Desktop\Görüntü İşleme\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.exe
+C:\Users\AdemKose\Desktop\Görüntü İşleme\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.pdb
+C:\Users\AdemKose\Desktop\Görüntü İşleme\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\bin\Debug\goruntu_isleme_okuma.exe
+C:\Users\AdemKose\Desktop\Görüntü İşleme\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\bin\Debug\goruntu_isleme_okuma.pdb
+C:\Users\AdemKose\Desktop\Görüntü İşleme\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.csprojResolveAssemblyReference.cache
+C:\Users\AdemKose\Desktop\Görüntü İşleme\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.Form1.resources
+C:\Users\AdemKose\Desktop\Görüntü İşleme\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.Properties.Resources.resources
+C:\Users\AdemKose\Desktop\Görüntü İşleme\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.csproj.GenerateResource.Cache
+D:\Görüntü İşleme\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\bin\Debug\goruntu_isleme_okuma.exe.config
+D:\Görüntü İşleme\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.exe
+D:\Görüntü İşleme\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.pdb
+D:\Görüntü İşleme\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\bin\Debug\goruntu_isleme_okuma.exe
+D:\Görüntü İşleme\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\bin\Debug\goruntu_isleme_okuma.pdb
+D:\Görüntü İşleme\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.csprojResolveAssemblyReference.cache
+D:\Görüntü İşleme\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.Form1.resources
+D:\Görüntü İşleme\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.Properties.Resources.resources
+D:\Görüntü İşleme\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.csproj.GenerateResource.Cache
