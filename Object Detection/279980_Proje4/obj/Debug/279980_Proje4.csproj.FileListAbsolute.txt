@@ -1,0 +1,9 @@
+C:\Users\AdemKose\Desktop\Nesne Tanıma\momentli güzel\279980_Proje4\279980_Proje4\bin\Debug\279980_Proje4.exe.config
+C:\Users\AdemKose\Desktop\Nesne Tanıma\momentli güzel\279980_Proje4\279980_Proje4\bin\Debug\279980_Proje4.exe
+C:\Users\AdemKose\Desktop\Nesne Tanıma\momentli güzel\279980_Proje4\279980_Proje4\bin\Debug\279980_Proje4.pdb
+C:\Users\AdemKose\Desktop\Nesne Tanıma\momentli güzel\279980_Proje4\279980_Proje4\obj\Debug\279980_Proje4.csprojResolveAssemblyReference.cache
+C:\Users\AdemKose\Desktop\Nesne Tanıma\momentli güzel\279980_Proje4\279980_Proje4\obj\Debug\_279980_Proje4.Form1.resources
+C:\Users\AdemKose\Desktop\Nesne Tanıma\momentli güzel\279980_Proje4\279980_Proje4\obj\Debug\_279980_Proje4.Properties.Resources.resources
+C:\Users\AdemKose\Desktop\Nesne Tanıma\momentli güzel\279980_Proje4\279980_Proje4\obj\Debug\279980_Proje4.csproj.GenerateResource.Cache
+C:\Users\AdemKose\Desktop\Nesne Tanıma\momentli güzel\279980_Proje4\279980_Proje4\obj\Debug\279980_Proje4.exe
+C:\Users\AdemKose\Desktop\Nesne Tanıma\momentli güzel\279980_Proje4\279980_Proje4\obj\Debug\279980_Proje4.pdb
