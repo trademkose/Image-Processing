@@ -50,6 +50,7 @@
             // 
             // pictureBox_orjinal
             // 
+            this.pictureBox_orjinal.Image = global::goruntu_isleme_okuma.Properties.Resources.image;
             this.pictureBox_orjinal.Location = new System.Drawing.Point(12, 76);
             this.pictureBox_orjinal.Name = "pictureBox_orjinal";
             this.pictureBox_orjinal.Size = new System.Drawing.Size(386, 256);

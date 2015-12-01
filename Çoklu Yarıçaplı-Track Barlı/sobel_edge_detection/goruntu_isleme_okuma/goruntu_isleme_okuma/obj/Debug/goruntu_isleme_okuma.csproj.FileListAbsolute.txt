@@ -25,3 +25,12 @@ D:\Görüntü İşleme\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\gor
 D:\Görüntü İşleme\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.Form1.resources
 D:\Görüntü İşleme\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.Properties.Resources.resources
 D:\Görüntü İşleme\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.csproj.GenerateResource.Cache
+D:\Github\Image-Processing\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\bin\Debug\goruntu_isleme_okuma.exe.config
+D:\Github\Image-Processing\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.exe
+D:\Github\Image-Processing\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.pdb
+D:\Github\Image-Processing\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\bin\Debug\goruntu_isleme_okuma.exe
+D:\Github\Image-Processing\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\bin\Debug\goruntu_isleme_okuma.pdb
+D:\Github\Image-Processing\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.csprojResolveAssemblyReference.cache
+D:\Github\Image-Processing\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.Form1.resources
+D:\Github\Image-Processing\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.Properties.Resources.resources
+D:\Github\Image-Processing\Çoklu Yarıçaplı-Track Barlı\sobel_edge_detection\goruntu_isleme_okuma\goruntu_isleme_okuma\obj\Debug\goruntu_isleme_okuma.csproj.GenerateResource.Cache

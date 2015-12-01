@@ -311,7 +311,6 @@ namespace goruntu_isleme_okuma
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            pictureBox_orjinal.Image = Image.FromFile("C:\\Users\\AdemKose\\Desktop\\asd25gurultu.png");
             //Bitmap resim = new Bitmap(pictureBox1.Image);
             //pictureBox1.Image=DrawCircle(resim, 50, 10, 20, Color.Blue);
         }
